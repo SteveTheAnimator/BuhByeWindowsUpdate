@@ -1,0 +1,14 @@
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\bin\Debug\net8.0\BuhByeWindowsUpdate.exe
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\bin\Debug\net8.0\BuhByeWindowsUpdate.deps.json
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\bin\Debug\net8.0\BuhByeWindowsUpdate.runtimeconfig.json
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\bin\Debug\net8.0\BuhByeWindowsUpdate.dll
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\bin\Debug\net8.0\BuhByeWindowsUpdate.pdb
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\BuhByeWindowsUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\BuhByeWindowsUpdate.AssemblyInfoInputs.cache
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\BuhByeWindowsUpdate.AssemblyInfo.cs
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\BuhByeWindowsUpdate.csproj.CoreCompileInputs.cache
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\BuhByeWindowsUpdate.dll
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\refint\BuhByeWindowsUpdate.dll
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\BuhByeWindowsUpdate.pdb
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\BuhByeWindowsUpdate.genruntimeconfig.cache
+C:\Users\harlo\source\repos\BuhByeWindowsUpdate\obj\Debug\net8.0\ref\BuhByeWindowsUpdate.dll
